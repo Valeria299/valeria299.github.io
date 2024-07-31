@@ -1,0 +1,48 @@
+*{
+    font-family: "Outfit", sans-serif;
+}
+header{
+    background-color: #173b45;
+}
+header span{
+    color: white;
+}
+
+#nav-butoon{
+    background-color: grey;
+}
+/*link visitado*/
+
+.nav-item a{
+    color: white;
+}
+/*link visitado*/
+.nav-item a:visited{
+    color: white;
+}
+.nav-item a:hover{
+    color: rgb(187, 178, 178);
+}
+.icon-habilidades{
+    color:  cornflowerblue;
+    font-size: 1.2em;
+}
+.img-proyecto1{
+    background-image: url('/assets/clon.jpg');
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: #173b45;
+}
+footer .icon-footer i{
+    color: white;
+    font-size: 1.5em;
+}
+footer p{
+    color: white;
+}
+footer p a{
+    color: white;
+}
