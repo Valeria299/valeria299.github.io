@@ -1,4 +1,4 @@
-# Portafolio de Valeria Pérez Alvarez
+# Portafolio de Valeria A
 ## Proyecto responsivo realizado con Bootstrap 5
 
 Proyecto adaptable a distintos dispositivos. El propósito de esta página web es mostrar mi portafolio de proyectos como desarrolladora web.
@@ -18,6 +18,3 @@ Podrás encontrarlo aquí [Portafolio](https://valeria299.github.io/).
 * Habilidades 
 * Proyectos 
 * Contacto 
-
-### Captura del proyecto
-![Captura del proyecto](/assets/cap.png)
